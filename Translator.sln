@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translator", "Translator.csproj", "{0A6B2D22-1C1C-463A-AEFD-89C7D8E3C819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "..\WebApplication1\WebApplication1.csproj", "{93C3EF16-A9FE-4C6B-95A8-9953DD3087E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6B2D22-1C1C-463A-AEFD-89C7D8E3C819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6B2D22-1C1C-463A-AEFD-89C7D8E3C819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6B2D22-1C1C-463A-AEFD-89C7D8E3C819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6B2D22-1C1C-463A-AEFD-89C7D8E3C819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C3EF16-A9FE-4C6B-95A8-9953DD3087E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C3EF16-A9FE-4C6B-95A8-9953DD3087E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C3EF16-A9FE-4C6B-95A8-9953DD3087E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C3EF16-A9FE-4C6B-95A8-9953DD3087E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A406968-975C-41BE-A106-67626A3AFE3A}
+	EndGlobalSection
+EndGlobal

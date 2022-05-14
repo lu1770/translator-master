@@ -1,0 +1,11 @@
+
+*.dll
+*.pdb
+*.cache
+
+/.idea/*
+/.vs/
+/.vscode/
+**/obj/Debug/*
+/packages/*
+/bin/
